@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game
+# Rock, Paper, Scissors Game The Odin Project
 
 This is a simple implementation of the classic Rock, Paper, Scissors game using JavaScript. The game allows a player to compete against the computer over 5 rounds, with the results of each round being displayed in the console. After all rounds are completed, the game announces the overall winner.
 
